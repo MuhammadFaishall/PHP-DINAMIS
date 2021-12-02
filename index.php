@@ -20,7 +20,7 @@
     
     <nav class="navbar navbar-expand-md navbar-dark bg-primary">
   <div class="container-fluid">
-    <a class="navbar-brand" href="#">Muhammad Faishal Site</a>
+    <a class="navbar-brand" href="#">Muhammad Faishal</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
     </button>
@@ -46,16 +46,46 @@
     <div class="col-4">
       FOTO
       <div class="card mx-auto" style="width: 20rem;">
-  <img src="assets/img/MFaishal.jpeg" class="card-img-top" style="width: 9rem;">
+  <img src="assets/img/Mfaisal.jpg" class="card-img-top" style="width: 9rem;">
   <div class="card-body">
-    <p class="card-text">xsal</p>
+    <p class="card-text"></p>
   </div>
 </div>
     </div>
     <div class="col-8">
      <h1>SELAMAT DATANG DIWEBSITE INI </h1>
      
-     <h1>Apa aja lah </h1>
+     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Illo, magnam amet facere dignissimos temporibus officia reprehenderit id explicabo commodi asperiores eum nihil fuga, modi hic totam ducimus, consectetur ratione laudantium.</p>
+
+    </div>
+
+  </div>
+
+</div>
+
+</div>
+
+<div class="container">
+  <div class="row">
+    <div class="col-8">
+    <div id="carouselExampleSlidesOnly" class="carousel slide" data-bs-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="assets/slide/rumah.jpg" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="assets/slide/rumah.2.jpg" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="assets/slide/rumah3.jpg" class="d-block w-100" alt="...">
+    </div>
+  </div>
+</div>
+  </div>
+</div>
+    </div>
+    <div class="col-4">
+     
 
     </div>
 
